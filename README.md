@@ -9,6 +9,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+
 https://developer.android.com/reference/android/widget/Button
 https://developer.android.com/reference/android/widget/EditText
 https://developer.android.com/reference/android/view/View#setVisibility(int)
