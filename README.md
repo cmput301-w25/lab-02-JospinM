@@ -15,8 +15,6 @@ https://developer.android.com/reference/android/widget/EditText
 https://developer.android.com/reference/android/view/View#setVisibility(int)
 https://developer.android.com/reference/android/view/View.OnClickListener
 https://developer.android.com/guide/topics/ui/declaring-layout
-https://stackoverflow.com/questions/17751129/deselect-selected-item-in-listview
-https://stackoverflow.com/questions/34710770/how-to-change-action-bar-title
 
 ## Verbal Collaboration
 
