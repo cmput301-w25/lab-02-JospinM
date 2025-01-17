@@ -3,16 +3,20 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Jospin Muhanuzi
+- **CCID:** muhanuzi
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com/reference/android/widget/Button
+https://developer.android.com/reference/android/widget/EditText
+https://developer.android.com/reference/android/view/View#setVisibility(int)
+https://developer.android.com/reference/android/view/View.OnClickListener
+https://developer.android.com/guide/topics/ui/declaring-layout
+https://stackoverflow.com/questions/17751129/deselect-selected-item-in-listview
+https://stackoverflow.com/questions/34710770/how-to-change-action-bar-title
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
